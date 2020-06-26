@@ -10,14 +10,8 @@
     "branch":      "ten"
   },
   {
-    "remote":      "github",
-    "repository":  "xiaomi-sdm660/android_kernel_xiaomi_sdm660",
+    "repository":  "android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "master"
-  },
-  {
-    "repository":  "vendor_MiuiCamera",
-    "target_path": "vendor/MiuiCamera",
-    "branch":      "ten-whyred"
+    "branch":      "ten"
   }
 ]
