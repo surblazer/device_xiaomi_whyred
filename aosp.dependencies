@@ -3,7 +3,7 @@
     "remote":      "github",
     "repository":  "PixelExperience-Devices/device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch":      "ten-whyred"
+    "branch":      "ten"
   },
   {
     "repository"  : "vendor_xiaomi_sdm660-common",
